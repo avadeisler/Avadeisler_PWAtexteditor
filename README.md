@@ -1,16 +1,9 @@
 # Challenge-19-PWAtexteditor
 
-## User Story
-
-```md
-AS A developer
-I WANT to create notes or code snippets with or without an internet connection
-SO THAT I can reliably retrieve them for later use
-```
+In this challenge, I am to create a PWA web application that edits and saves text without an internet connection. You can also install in onto your local machine.
 
 ## Acceptance Criteria
 
-```md
 GIVEN a text editor web application
 WHEN I open my application in my editor
 THEN I should see a client server folder structure
@@ -36,4 +29,12 @@ WHEN I register a service worker
 THEN I should have my static assets pre cached upon loading along with subsequent pages and static assets
 WHEN I deploy to Render
 THEN I should have proper build scripts for a webpack application
+
+```
+
+deployed link on Render:
+
+https://pwatexteditor-grg1.onrender.com/
+
+![Screenshot 2024-05-15 122149](https://github.com/avadeisler/Avadeisler_PWAtexteditor/assets/139513258/13259ffd-521c-412a-87a3-63c0f1e79c9d)
 ```
